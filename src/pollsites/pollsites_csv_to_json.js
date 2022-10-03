@@ -2,8 +2,6 @@ const { readFileSync, writeFileSync } = require("fs");
 const { parse } = require("csv-parse");
 const { Client } = require("@googlemaps/google-maps-services-js");
 
-// process.env.GOOGLE_MAPS_API_KEY = "AIzaSyDqcHBw_Nw78PswAidd-...";
-
 const client = new Client();
 const csv = readFileSync("./data/pollsites.csv", { encoding: "utf-8" });
 parse(
