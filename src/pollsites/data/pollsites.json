@@ -1,0 +1,1410 @@
+[
+  {
+    "county": "Erie",
+    "name": "Board of Elections Main Office",
+    "address": "134 W Eagle Street",
+    "city": "Buffalo",
+    "zip": "14202",
+    "geocode": {
+      "lat": 42.8848884,
+      "lng": -78.8798846
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Theodore Roosevelt Inaugural Site",
+    "address": "641 Delaware Ave",
+    "city": "Buffalo",
+    "zip": "14202",
+    "geocode": {
+      "lat": 42.9015559,
+      "lng": -78.87261389999999
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "N Buffalo Community Center",
+    "address": "203 Sanders Road",
+    "city": "Buffalo",
+    "zip": "14216",
+    "geocode": {
+      "lat": 42.9566936,
+      "lng": -78.862239
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "St Columbia-Brigid, RC",
+    "address": "75 Hickory Street",
+    "city": "Buffalo",
+    "zip": "14204",
+    "geocode": {
+      "lat": 42.8817928,
+      "lng": -78.8586756
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Matt Urban Center",
+    "address": "1081 Broadway",
+    "city": "Buffalo",
+    "zip": "14212",
+    "geocode": {
+      "lat": 42.8936863,
+      "lng": -78.8346937
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Hennepin Center",
+    "address": "24 Ludington Street",
+    "city": "Buffalo",
+    "zip": "14206",
+    "geocode": {
+      "lat": 42.887564,
+      "lng": -78.8133988
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Delavan Grider Community Center",
+    "address": "877 E Delavan Ave",
+    "city": "Buffalo",
+    "zip": "14215",
+    "geocode": {
+      "lat": 42.9219848,
+      "lng": -78.82401829999999
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Salvation Army West Side Community Center",
+    "address": "187 Grant Street",
+    "city": "Buffalo",
+    "zip": "14213",
+    "geocode": {
+      "lat": 42.9191151,
+      "lng": -78.8900547
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Northwest Buffalo Community Center",
+    "address": "155 Lawn Avenue",
+    "city": "Buffalo",
+    "zip": "14207",
+    "geocode": {
+      "lat": 42.95027959999999,
+      "lng": -78.88802249999999
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Tosh Collins Community Center",
+    "address": "35 Cazenovia Street",
+    "city": "Buffalo",
+    "zip": "14220",
+    "geocode": {
+      "lat": 42.8487205,
+      "lng": -78.81117909999999
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Gloria J Parks Community Center",
+    "address": "3242 Main Street",
+    "city": "Buffalo",
+    "zip": "14214",
+    "geocode": {
+      "lat": 42.9524438,
+      "lng": -78.8251015
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Alden Municipal Building",
+    "address": "13336 Broadway",
+    "city": "Alden",
+    "zip": "14004",
+    "geocode": {
+      "lat": 42.9004537,
+      "lng": -78.4912216
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Amherst Senior Center",
+    "address": "370 John James Audubon Pkwy",
+    "city": "Amherst",
+    "zip": "14228",
+    "geocode": {
+      "lat": 43.01572580000001,
+      "lng": -78.778846
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Aurora Municipal Center",
+    "address": "575 Oakwood Avenue",
+    "city": "East Aurora",
+    "zip": "14052",
+    "geocode": {
+      "lat": 42.7654272,
+      "lng": -78.6134952
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Boston Town Hall",
+    "address": "8500 Boston State Rd",
+    "city": "Boston",
+    "zip": "14025",
+    "geocode": {
+      "lat": 42.6527048,
+      "lng": -78.7451653
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Brant Senior Community Center",
+    "address": "1000 Brant Farnham Road",
+    "city": "Irving",
+    "zip": "14081",
+    "geocode": {
+      "lat": 42.5888084,
+      "lng": -79.0440149
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Cheektowaga Senior Center",
+    "address": "3349 Broadway Ave",
+    "city": "Cheektowaga",
+    "zip": "14227",
+    "geocode": {
+      "lat": 42.9028935,
+      "lng": -78.7513845
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Our Lady of Peach Church",
+    "address": "10950 Main St",
+    "city": "Clarence",
+    "zip": "14031",
+    "geocode": {
+      "lat": 42.9827039,
+      "lng": -78.57894879999999
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Colden Town Hall",
+    "address": "8812 State Rd",
+    "city": "Colden",
+    "zip": "14033",
+    "geocode": {
+      "lat": 42.6434382,
+      "lng": -78.68458749999999
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Collins Town Hall",
+    "address": "14093 Mill St",
+    "city": "Collins",
+    "zip": "14034",
+    "geocode": {
+      "lat": 42.4953942,
+      "lng": -78.91976319999999
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Concord Senior Center",
+    "address": "40 Commerce Dr",
+    "city": "Springville",
+    "zip": "14141",
+    "geocode": {
+      "lat": 42.50268519999999,
+      "lng": -78.68174479999999
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "American Legion Post 880",
+    "address": "2912 Legion Dr",
+    "city": "Eden",
+    "zip": "14057",
+    "geocode": {
+      "lat": 42.6622463,
+      "lng": -78.8880298
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Elma Senior Center",
+    "address": "3007 Bowen Rd",
+    "city": "Elma",
+    "zip": "14059",
+    "geocode": {
+      "lat": 42.852082,
+      "lng": -78.635837
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Evans Center Fire Hall",
+    "address": "8298 Erie Rd",
+    "city": "Angola",
+    "zip": "14006",
+    "geocode": {
+      "lat": 42.6594859,
+      "lng": -79.0344001
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Grand Island Welcome Center",
+    "address": "1999 Alvin Rd",
+    "city": "Grand Island",
+    "zip": "14072",
+    "geocode": {
+      "lat": 43.010155,
+      "lng": -78.9653333
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Moose Lodge 992",
+    "address": "45 Church St",
+    "city": "Hamburg",
+    "zip": "14075",
+    "geocode": {
+      "lat": 42.7258409,
+      "lng": -78.8402551
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Holland Community Center",
+    "address": "3 Legion Dr",
+    "city": "Holland",
+    "zip": "14080",
+    "geocode": {
+      "lat": 42.6469671,
+      "lng": -78.5427267
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Our Lady of Pompeii Church",
+    "address": "158 Laverack Ave",
+    "city": "Lancaster",
+    "zip": "14086",
+    "geocode": {
+      "lat": 42.9083653,
+      "lng": -78.6802482
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Marilla Community Center",
+    "address": "1810 Two Rod Rd",
+    "city": "Marilla",
+    "zip": "14102",
+    "geocode": {
+      "lat": 42.8388735,
+      "lng": -78.5556599
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Akron Village Hall",
+    "address": "21 Main St",
+    "city": "Akron",
+    "zip": "14001",
+    "geocode": {
+      "lat": 43.0198009,
+      "lng": -78.5019567
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "North Collins Senior Center",
+    "address": "11065 Gowanda State Rd",
+    "city": "North Collins",
+    "zip": "14111",
+    "geocode": {
+      "lat": 42.5807923,
+      "lng": -78.9398289
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Orchard Park Community Activity Center",
+    "address": "4600 California Rd",
+    "city": "Orchard Park",
+    "zip": "14127",
+    "geocode": {
+      "lat": 42.7573594,
+      "lng": -78.77368109999999
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Sardinia Community Center",
+    "address": "12320 Savage Rd",
+    "city": "Sardinia",
+    "zip": "14134",
+    "geocode": {
+      "lat": 42.542887,
+      "lng": -78.50871099999999
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Kenmore Municipal Building",
+    "address": "2919 Delaware Rd",
+    "city": "Kenmore",
+    "zip": "14217",
+    "geocode": {
+      "lat": 42.9635491,
+      "lng": -78.8697985
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Wales Community Center",
+    "address": "12345 Big Tree Rd",
+    "city": "Wales Center",
+    "zip": "14169",
+    "geocode": {
+      "lat": 42.7678942,
+      "lng": -78.5273512
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "West Seneca Community Center",
+    "address": "1300 Union Rd",
+    "city": "West Seneca",
+    "zip": "14224",
+    "geocode": {
+      "lat": 42.8354645,
+      "lng": -78.7547496
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Senior Citizens Center",
+    "address": "230 Martin Rd",
+    "city": "Lackawanna",
+    "zip": "14218",
+    "geocode": {
+      "lat": 42.8167027,
+      "lng": -78.8153392
+    }
+  },
+  {
+    "county": "Erie",
+    "name": "Tonawanda City Call",
+    "address": "200 Niagara St",
+    "city": "Tonawanda",
+    "zip": "14150",
+    "geocode": {
+      "lat": 43.0194451,
+      "lng": -78.88626649999999
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "David F. Gantt Community Center ",
+    "address": "700 North St",
+    "city": "Rochester",
+    "zip": "14605",
+    "geocode": {
+      "lat": 43.1706978,
+      "lng": -77.59659570000001
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "Boys and Girls Club ",
+    "address": "500 Genesee St",
+    "city": "Rochester",
+    "zip": "14611",
+    "geocode": {
+      "lat": 43.1402876,
+      "lng": -77.6348798
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "Sibley Square ",
+    "address": "250 E Main St",
+    "city": "Rochester",
+    "zip": "14604",
+    "geocode": {
+      "lat": 43.1577783,
+      "lng": -77.6059652
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "Edgerton Recreation Center ",
+    "address": "41 Backus St",
+    "city": "Rochester",
+    "zip": "14608",
+    "geocode": {
+      "lat": 43.1714347,
+      "lng": -77.6329457
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "Norton Village Recreation Center ",
+    "address": "350 Waring Rd",
+    "city": "Rochester",
+    "zip": "14609",
+    "geocode": {
+      "lat": 43.185603,
+      "lng": -77.565338
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "SUNY Empire State College ",
+    "address": "680 Westfall Rd",
+    "city": "Rochester",
+    "zip": "14620",
+    "geocode": {
+      "lat": 43.1155347,
+      "lng": -77.6041608
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "St. Theodores Church ",
+    "address": "168 Spencerport Rd",
+    "city": "Rochester",
+    "zip": "14606",
+    "geocode": {
+      "lat": 43.1682433,
+      "lng": -77.69526019999999
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "North Greece Rd. Church of Christ ",
+    "address": "1039 N Greece Rd",
+    "city": "Rochester",
+    "zip": "14626",
+    "geocode": {
+      "lat": 43.2249367,
+      "lng": -77.7357589
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "Henrietta Public Library ",
+    "address": "625 Calkins Rd",
+    "city": "Rochester",
+    "zip": "14623",
+    "geocode": {
+      "lat": 43.06817179999999,
+      "lng": -77.61716349999999
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "Irondequoit Public Library ",
+    "address": "1290 Titus Ave",
+    "city": "Rochester",
+    "zip": "14617",
+    "geocode": {
+      "lat": 43.2117697,
+      "lng": -77.5810162
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "Penfield Dolomite Lodge",
+    "address": "1628 Jackson Road",
+    "city": "Penfield",
+    "zip": "14526",
+    "geocode": {
+      "lat": 43.1623916,
+      "lng": -77.4445824
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "Perinton Square Mall ",
+    "address": "6720 Pittsford Palmyra Rd",
+    "city": "Fairport",
+    "zip": "14450",
+    "geocode": {
+      "lat": 43.0703392,
+      "lng": -77.4377688
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "Sweden Clarkson Community Center ",
+    "address": "4927 Lake Rd",
+    "city": "Brockport",
+    "zip": "14420",
+    "geocode": {
+      "lat": 43.1924046,
+      "lng": -77.9482692
+    }
+  },
+  {
+    "county": "Monroe",
+    "name": "Webster Library ",
+    "address": "980 Ridge Rd",
+    "city": "Webster",
+    "zip": "14580",
+    "geocode": {
+      "lat": 43.2113001,
+      "lng": -77.45969099999999
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Oyster Bay Ice Rink",
+    "address": "1001 Stewart Ave",
+    "city": "Bethpage",
+    "zip": "11714",
+    "geocode": {
+      "lat": 40.7556709,
+      "lng": -73.485599
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Elmont Public Library",
+    "address": "700 Hempstead Tpke",
+    "city": "Elmont",
+    "zip": "11003",
+    "geocode": {
+      "lat": 40.7080017,
+      "lng": -73.7000651
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Floral Park Recreation Center",
+    "address": "124 Stewart St",
+    "city": "Floral Park",
+    "zip": "11001",
+    "geocode": {
+      "lat": 40.7254998,
+      "lng": -73.69416430000001
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Freeport Recreation Center",
+    "address": "130 East Merrick Rd",
+    "city": "Freeport",
+    "zip": "11520",
+    "geocode": {
+      "lat": 40.6525133,
+      "lng": -73.576252
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "St. Paul's Recreation Center",
+    "address": "295 Stewart Ave",
+    "city": "Garden City",
+    "zip": "11530",
+    "geocode": {
+      "lat": 40.7256205,
+      "lng": -73.6487545
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Glen Cove City Hall",
+    "address": "9 Glen St",
+    "city": "Glen Cove",
+    "zip": "11542",
+    "geocode": {
+      "lat": 40.8644483,
+      "lng": -73.6312228
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Great Neck Village Hall",
+    "address": "61 Baker Hill Rd",
+    "city": "Great Neck",
+    "zip": "11023",
+    "geocode": {
+      "lat": 40.8010193,
+      "lng": -73.7281563
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Hempstead Rec. Center/Kennedy Park",
+    "address": "335 Greenwich St",
+    "city": "Hempstead",
+    "zip": "11550",
+    "geocode": {
+      "lat": 40.699855,
+      "lng": -73.6127322
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Hicksville Levittown Hall",
+    "address": "201 Levittown Pkwy",
+    "city": "Hicksville",
+    "zip": "11801",
+    "geocode": {
+      "lat": 40.7525903,
+      "lng": -73.541698
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "South Shore Jewish Center",
+    "address": "191 Long Beach Rd",
+    "city": "Island Park",
+    "zip": "11558",
+    "geocode": {
+      "lat": 40.6024743,
+      "lng": -73.65541449999999
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Lawrence Country Club",
+    "address": "101 Causeway",
+    "city": "Lawrence",
+    "zip": "11559",
+    "geocode": {
+      "lat": 40.6084502,
+      "lng": -73.7285701
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Long Beach City Hall",
+    "address": "1 West Chester St",
+    "city": "Long Beach",
+    "zip": "11561",
+    "geocode": {
+      "lat": 40.5896043,
+      "lng": -73.66645129999999
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Massapequa Town Hall South",
+    "address": "977 Hicksville Rd",
+    "city": "Massapequa",
+    "zip": "11758",
+    "geocode": {
+      "lat": 40.6903496,
+      "lng": -73.47814249999999
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Temple Bath AM",
+    "address": "2377 Merrick Ave",
+    "city": "Merrick",
+    "zip": "11566",
+    "geocode": {
+      "lat": 40.6594269,
+      "lng": -73.54979639999999
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Nassau County Board of Elections",
+    "address": "240 Old Country Rd",
+    "city": "Mineola",
+    "zip": "11501",
+    "geocode": {
+      "lat": 40.73879830000001,
+      "lng": -73.63678809999999
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Michael J Tully Park",
+    "address": "1801 Evergreen Ave",
+    "city": "New Hyde Park",
+    "zip": "11040",
+    "geocode": {
+      "lat": 40.7441957,
+      "lng": -73.6769363
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Oyster Bay Town Hall North",
+    "address": "54 Audrey Ave",
+    "city": "Oyster Bay",
+    "zip": "11771",
+    "geocode": {
+      "lat": 40.87341139999999,
+      "lng": -73.5317587
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Plainview Mid-Island Y JCC",
+    "address": "45 Manetto Hill Rd",
+    "city": "Plainview",
+    "zip": "11803",
+    "geocode": {
+      "lat": 40.7795998,
+      "lng": -73.4670034
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Port Washington Library",
+    "address": "1 Library Dr",
+    "city": "Port Washington",
+    "zip": "11050",
+    "geocode": {
+      "lat": 40.8318952,
+      "lng": -73.69665309999999
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Rockville Centre Recreation Center",
+    "address": "111 N Oceanside Rd",
+    "city": "Rockville Centre",
+    "zip": "11570",
+    "geocode": {
+      "lat": 40.6577492,
+      "lng": -73.6270488
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Roosevelt Public Library",
+    "address": "27 W. Fulton Ave",
+    "city": "Roosevelt",
+    "zip": "11575",
+    "geocode": {
+      "lat": 40.675677,
+      "lng": -73.5887195
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Gayle Community Center",
+    "address": "53 Orchard St",
+    "city": "Roslyn Heights",
+    "zip": "11577",
+    "geocode": {
+      "lat": 40.7911748,
+      "lng": -73.6428591
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Uniondale Fire Department - Van Ness Fire Station",
+    "address": "154 Uniondale Ave",
+    "city": "Uniondale",
+    "zip": "11553",
+    "geocode": {
+      "lat": 40.7132874,
+      "lng": -73.5936878
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Valley Stream Presbyterian Church",
+    "address": "130 S. Central Ave",
+    "city": "Valley Stream",
+    "zip": "11580",
+    "geocode": {
+      "lat": 40.6632682,
+      "lng": -73.70921469999999
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "St. Frances de Chantal Church",
+    "address": "1309 Wantagh Ave",
+    "city": "Wantagh",
+    "zip": "11793",
+    "geocode": {
+      "lat": 40.6900898,
+      "lng": -73.50796679999999
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "West Hempstead Public Library",
+    "address": "500 Hempstead Ave",
+    "city": "West Hempstead",
+    "zip": "11552",
+    "geocode": {
+      "lat": 40.6956592,
+      "lng": -73.65426479999999
+    }
+  },
+  {
+    "county": "Nassau",
+    "name": "Yes We Can Community Center",
+    "address": "141 Garden St",
+    "city": "Westbury",
+    "zip": "11590",
+    "geocode": {
+      "lat": 40.7587996,
+      "lng": -73.56760249999999
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Wyandach-Wheatley Heights Ambulance",
+    "address": "295 Merritt Ave",
+    "city": "Wyandanch",
+    "zip": "11798",
+    "geocode": {
+      "lat": 40.7541419,
+      "lng": -73.3634553
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "ACE Center",
+    "address": "48 Cedar Rd",
+    "city": "Amityville",
+    "zip": "11701",
+    "geocode": {
+      "lat": 40.7097628,
+      "lng": -73.4079378
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Babylon Town Hall Annex",
+    "address": "281 Phelps Ln",
+    "city": "North Babylon",
+    "zip": "11703",
+    "geocode": {
+      "lat": 40.7280088,
+      "lng": -73.33080129999999
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Rose Caracappa Senior Center",
+    "address": "739 NY-25A",
+    "city": "Mount Sinai",
+    "zip": "11766",
+    "geocode": {
+      "lat": 40.9383653,
+      "lng": -73.0116092
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "South Country Ambulance",
+    "address": "420 Station Rd",
+    "city": "Bellport",
+    "zip": "11713",
+    "geocode": {
+      "lat": 40.7721572,
+      "lng": -72.9429423
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Henrietta Acampora Center",
+    "address": "39 Montauk Highway",
+    "city": "Blue Point",
+    "zip": "11715",
+    "geocode": {
+      "lat": 40.7531654,
+      "lng": -73.0397437
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Robert Reid Senior Center",
+    "address": "Defense Hill Rd",
+    "city": "Shoreham",
+    "zip": "11786",
+    "geocode": {
+      "lat": 40.9461284,
+      "lng": -72.8705835
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Brookhaven Town Hall",
+    "address": "1 Independence Hill",
+    "city": "Farmingville",
+    "zip": "11738",
+    "geocode": {
+      "lat": 40.844015,
+      "lng": -73.01635999999999
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Mastic Recreation Community Center",
+    "address": "15 Herkimer Street",
+    "city": "Mastic",
+    "zip": "11950",
+    "geocode": {
+      "lat": 40.8053259,
+      "lng": -72.8403318
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Manorville Fire Department",
+    "address": "16 Silas Carter Rd",
+    "city": "Manorville",
+    "zip": "11949",
+    "geocode": {
+      "lat": 40.85939,
+      "lng": -72.80867119999999
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Windmill Village",
+    "address": "219 Accabonac Rd",
+    "city": "East Hampton",
+    "zip": "11937",
+    "geocode": {
+      "lat": 40.9782342,
+      "lng": -72.1711959
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Bohemia Recreation Center",
+    "address": "1 Ruzicka Way",
+    "city": "Bohemia",
+    "zip": "11716",
+    "geocode": {
+      "lat": 40.7718581,
+      "lng": -73.110732
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "West Islip Senior Center",
+    "address": "90 Higbie Ln",
+    "city": "West Islip",
+    "zip": "11795",
+    "geocode": {
+      "lat": 40.7025859,
+      "lng": -73.3078249
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Greenbelt Recreation Center",
+    "address": "281 Patchogue-Holbrook Rd",
+    "city": "Holtsville",
+    "zip": "11742",
+    "geocode": {
+      "lat": 40.78966399999999,
+      "lng": -73.0481373
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Knights of Columbus (Town of Islip)",
+    "address": "96 2nd Avenue",
+    "city": "Brentwood",
+    "zip": "11717",
+    "geocode": {
+      "lat": 40.7779574,
+      "lng": -73.23852409999999
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Islip Town Hall Annex",
+    "address": "401 Main Street",
+    "city": "Islip",
+    "zip": "11751",
+    "geocode": {
+      "lat": 40.7293675,
+      "lng": -73.2165433
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Greenlawn Fire Department",
+    "address": "23 Boulevard Ave.",
+    "city": "Greenlawn",
+    "zip": "11740",
+    "geocode": {
+      "lat": 40.8697122,
+      "lng": -73.3635934
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Huntington Public Library (Station Branch)",
+    "address": "1335 New York Avenue",
+    "city": "Huntington Station",
+    "zip": "11746",
+    "geocode": {
+      "lat": 40.8505955,
+      "lng": -73.4119896
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Dix Hills Fire Department",
+    "address": "115 East Deer Park Rd",
+    "city": "Dix Hills",
+    "zip": "11746",
+    "geocode": {
+      "lat": 40.8247681,
+      "lng": -73.34259229999999
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Riverhead Senior Center",
+    "address": "60 Shade Tree Lane",
+    "city": "Aquebogue",
+    "zip": "11931",
+    "geocode": {
+      "lat": 40.9343507,
+      "lng": -72.63147099999999
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Shelter Island Youth Recreation Center",
+    "address": "1 Bateman Rd",
+    "city": "Shelter Island",
+    "zip": "11964",
+    "geocode": {
+      "lat": 41.0678485,
+      "lng": -72.3392296
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Nesconset Elementary School",
+    "address": "54 Browns Rd",
+    "city": "Nesconset",
+    "zip": "11767",
+    "geocode": {
+      "lat": 40.85770979999999,
+      "lng": -73.1506589
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Kings Park High School",
+    "address": "200 East Main St",
+    "city": "Kings Park",
+    "zip": "11754",
+    "geocode": {
+      "lat": 40.8830661,
+      "lng": -73.24175260000001
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Stony Brook University Southampton Campus",
+    "address": "70 Tuckahoe Rd.",
+    "city": "Southampton",
+    "zip": "11968",
+    "geocode": {
+      "lat": 40.8904728,
+      "lng": -72.4392218
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "County Center",
+    "address": "300 Center Dr",
+    "city": "Riverhead",
+    "zip": "11901",
+    "geocode": {
+      "lat": 40.9140744,
+      "lng": -72.6689299
+    }
+  },
+  {
+    "county": "Suffolk",
+    "name": "Southold Senior Center",
+    "address": "750 Pacific St",
+    "city": "Mattituck",
+    "zip": "11952",
+    "geocode": {
+      "lat": 40.9902884,
+      "lng": -72.5364269
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Eastchester Public Library",
+    "address": "11 Oakridge Place",
+    "city": "Eastchester",
+    "zip": "10709",
+    "geocode": {
+      "lat": 40.9572001,
+      "lng": -73.8118551
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Dobbs Ferry Village Hall",
+    "address": "112 Main Street",
+    "city": "Dobbs Ferry",
+    "zip": "10522",
+    "geocode": {
+      "lat": 41.0150434,
+      "lng": -73.8746634
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Greenburgh Town Hall",
+    "address": "177 Hillside Avenue",
+    "city": "White Plains",
+    "zip": "10607",
+    "geocode": {
+      "lat": 41.0468534,
+      "lng": -73.7895205
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "St. Gregory The Great Church",
+    "address": "215 Halstead Avenue",
+    "city": "Harrison",
+    "zip": "10528",
+    "geocode": {
+      "lat": 40.967102,
+      "lng": -73.7150077
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Mamaroneck Town Center",
+    "address": "740 W. Boston Post Road",
+    "city": "Mamaroneck",
+    "zip": "10543",
+    "geocode": {
+      "lat": 40.9419955,
+      "lng": -73.74364849999999
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Mt. Kisco Municipal Building",
+    "address": "104 Main Street",
+    "city": "Mt. Kisco",
+    "zip": "10549",
+    "geocode": {
+      "lat": 41.2063895,
+      "lng": -73.7271792
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Mt. Pleasant Community Center",
+    "address": "125 Lozza Drive",
+    "city": "Valhalla",
+    "zip": "10595",
+    "geocode": {
+      "lat": 41.0994795,
+      "lng": -73.7719635
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Joseph G. Caputo Community Center",
+    "address": "95 Broadway",
+    "city": "Ossining",
+    "zip": "10562",
+    "geocode": {
+      "lat": 41.1637455,
+      "lng": -73.8626475
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Pound Ridge Town House",
+    "address": "179 Westchester Avenue",
+    "city": "Pound Ridge",
+    "zip": "10576",
+    "geocode": {
+      "lat": 41.1986147,
+      "lng": -73.5688425
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Rye Brook Firehouse",
+    "address": "940 King Street",
+    "city": "Rye Brook",
+    "zip": "10573",
+    "geocode": {
+      "lat": 41.0351242,
+      "lng": -73.6746371
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Somers Town House",
+    "address": "335 Route 202",
+    "city": "Somers",
+    "zip": "10589",
+    "geocode": {
+      "lat": 41.3283569,
+      "lng": -73.6857651
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Jefferson Village Annex",
+    "address": "3500 Hill Boulevard",
+    "city": "Yorktown Heights",
+    "zip": "10598",
+    "geocode": {
+      "lat": 41.3258132,
+      "lng": -73.8008041
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Yorktown Cultural Center",
+    "address": "1974 Commerce Street",
+    "city": "Yorktown Heights",
+    "zip": "10598",
+    "geocode": {
+      "lat": 41.2760186,
+      "lng": -73.78152349999999
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Doles Center",
+    "address": "250 S. 6th Avenue",
+    "city": "Mt. Vernon",
+    "zip": "10550",
+    "geocode": {
+      "lat": 40.9044954,
+      "lng": -73.83683599999999
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Mt. Vernon City Hall",
+    "address": "1 Roosevelt Square",
+    "city": "Mt. Vernon",
+    "zip": "10550",
+    "geocode": {
+      "lat": 40.912268,
+      "lng": -73.838965
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "New Rochelle City Hall Annex – 90 Beaufort Place",
+    "address": "90 Beaufort Place",
+    "city": "New Rochelle",
+    "zip": "10801",
+    "geocode": {
+      "lat": 40.9206876,
+      "lng": -73.7856925
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "New Rochelle United Methodist Church",
+    "address": "1200 North Avenue",
+    "city": "New Rochelle",
+    "zip": "10804",
+    "geocode": {
+      "lat": 40.9428463,
+      "lng": -73.7951733
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Peekskill Nutrition Center – Neighborhood Center",
+    "address": "4 Nelson Avenue",
+    "city": "Peekskill",
+    "zip": "10566",
+    "geocode": {
+      "lat": 41.2909734,
+      "lng": -73.9227095
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Peekskill Lincoln Depot Museum",
+    "address": "10 S. Water Street",
+    "city": "Peekskill",
+    "zip": "10566",
+    "geocode": {
+      "lat": 41.2876575,
+      "lng": -73.9291411
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Westchester County Board of Elections",
+    "address": "25 Quarropas Street",
+    "city": "White Plains",
+    "zip": "10601",
+    "geocode": {
+      "lat": 41.0294899,
+      "lng": -73.7675382
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Grinton I. Will Library",
+    "address": "1500 Central Park Avenue",
+    "city": "Yonkers",
+    "zip": "10710",
+    "geocode": {
+      "lat": 40.9512867,
+      "lng": -73.84457119999999
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Nodine Hill Community Center",
+    "address": "140 Fillmore Street",
+    "city": "Yonkers",
+    "zip": "10701",
+    "geocode": {
+      "lat": 40.9326659,
+      "lng": -73.88182979999999
+    }
+  },
+  {
+    "county": "Westchester",
+    "name": "Riverfront Library",
+    "address": "One Larkin Center",
+    "city": "Yonkers",
+    "zip": "10701",
+    "geocode": {
+      "lat": 40.9359312,
+      "lng": -73.9017044
+    }
+  }
+]
